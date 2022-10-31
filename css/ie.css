@@ -1,0 +1,113 @@
+.banner-wrapper
+{
+	display: block!important;
+	z-index: 999999!important;
+}
+.banner-content ul li:first-child
+{
+	display: block!important;
+	z-index: 999999!important;
+}
+.banner-content ul li
+{
+	display: block!important;
+	z-index: 9999999!important;
+}
+#banner
+{
+	display: none!important;
+}
+.banner-ie
+{
+	display: block!important;
+}
+.banner-ie ul
+{
+	width: 100%;
+	float: left;
+	padding: 0px;
+	margin: 0px;
+	position: fixed;
+	top: 50px;
+}
+.banner-ie ul li.banner-inner
+{
+	width: 100%;
+	float: left;
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	background-attachment:fixed!important;
+	height: 100px;
+}
+.banner-ie img
+{
+	width: 100%;
+	float: left;
+	padding: 0px;
+	margin: 0px;
+	z-index: 99999;
+	display: block;
+	height: 390px;
+}
+.left-day-content
+{
+	z-index: 9999999!important;
+	display: block;
+}
+.left-day-content  h3.inviting
+{
+	color: #fff!important;
+	z-index: 999999!important;
+}
+.left-day
+{
+	z-index: 999999!important;
+	text-align: center!important;
+}
+.banner i.banner-bottom-border,.left-day-content
+{
+	display: none!important;
+}
+.timeline-img .text-overlay,.venue-img .text-overlay,.gallery_slider .item .mask
+{
+	display: none!important;
+}
+.venue-img
+{
+	display: block!important;
+	z-index: 99!important;
+	-webkit-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);
+}
+.hasCountdown > div
+{
+	display: inline-block;
+	width:100px!important;
+	height:100px!important;
+	background:none!important;
+	margin: 0 0 0 15px;
+	padding: 10px 0 0 0;
+	font-family:'aldo';
+	font-size: 20px!important;
+	color: #fffeff;
+}
+
+/*.gallery_slider .item:hover .mask 
+{
+	opacity: 0!important;
+}
+.venue-img:hover .text-overlay 
+{
+	-webkit-transform: scale(0)!important;
+	-ms-transform: scale(0)!important;
+    transform: scale(0)!important;
+}
+.timeline-img:hover .text-overlay 
+{
+	-webkit-transform: scale(0)!important;
+	-ms-transform: scale(0)!important;
+    transform: scale(0)!important;
+}
+*/
